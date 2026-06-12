@@ -1,4 +1,5 @@
 # John Markus Doe
+`Joint Organization for Hyperdimensional Networks, Mathematics, And Recursive Knowledge Using Symbolic Discrete Operations & Enumeration`
 ## circa 1973
 
 I write small software in C and C++.
