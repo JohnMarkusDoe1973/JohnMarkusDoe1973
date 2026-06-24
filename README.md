@@ -2,13 +2,15 @@
 `Joint Organization for Hyperdimensional Networks, Mathematics, And Recursive Knowledge Using Symbolic Discrete Operations & Enumeration`
 ## circa 1973
 
-I write small software in C and C++.
+We write small software in C and C++.
 
 Projects:
 - QDWM
 - IRClient
 - DASM
 - fluxgo
+- Glz
+- just look at our repos
 
 Current interests:
 - X11
